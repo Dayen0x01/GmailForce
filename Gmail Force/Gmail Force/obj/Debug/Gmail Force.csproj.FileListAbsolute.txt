@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Gmail Force\Gmail Force\bin\Debug\Gmail Force.exe.config
+C:\Users\User\source\repos\Gmail Force\Gmail Force\bin\Debug\Gmail Force.exe
+C:\Users\User\source\repos\Gmail Force\Gmail Force\bin\Debug\Gmail Force.pdb
+C:\Users\User\source\repos\Gmail Force\Gmail Force\obj\Debug\Gmail Force.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Gmail Force\Gmail Force\obj\Debug\Gmail Force.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Gmail Force\Gmail Force\obj\Debug\Gmail Force.exe
+C:\Users\User\source\repos\Gmail Force\Gmail Force\obj\Debug\Gmail Force.pdb
